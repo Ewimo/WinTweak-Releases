@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
-  "downloadUrl": "https://limewire.com/d/dTLCG#Ow96Bf3dOY",
-  "updateDownloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.0.0/WinTweak.exe",
-  "releaseNotes": "WinTweak v2.0.0 — Lifetime Release",
-  "publishedAt": "2026-07-13"
+  "version": "2.1.0",
+  "downloadUrl": "https://limewire.com/d/dTLCG",
+  "updateDownloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.0/WinTweak.exe",
+  "releaseNotes": "• New Disk Cleanup module (temp files, caches, Recycle Bin, full sweep)\\n• Custom dark title bar and scrollbars matching the app UI\\n• Fixed startup crash when checking for updates\\n• Improved license activation screen styling",
+  "publishedAt": "2026-07-14"
 }
