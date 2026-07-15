@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0",
-  "downloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.0/WinTweak.exe",
-  "updateDownloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.0/WinTweak.exe",
-  "releaseNotes": "• New Disk Cleanup module (temp files, caches, Recycle Bin, full sweep)\n\n• Custom dark title bar and scrollbars matching the app UI\n\n• Fixed startup crash when checking for updates\n\n• Improved license activation screen styling",
-  "publishedAt": "2026-07-14"
+  "version": "2.1.1",
+  "downloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.1/WinTweak.exe",
+  "updateDownloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.1/WinTweak.exe",
+  "releaseNotes": "`Scan My PC — scans your system and applies fixes automatically`\n \n`Update popup when a new version is available (fixes missed updates on older builds)`\n \n`Improved update checker reliability with GitHub fallback`\n \n`Cleaner dashboard — removed customize panel, streamlined layout`",
+  "publishedAt": "2026-07-15"
 }
