@@ -1,7 +1,7 @@
 {
+  "updateDownloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.2/WinTweak.exe",
+  "releaseNotes": "• Corporate Tech-Noir UI redesign — refined dashboard, tweak cards, activity log terminal, and mint/blue palette\n• High-security License Activation gate with HWID Bound Lock and encrypted handshake verification\n• Security Status panel — Anti-Tamper active, Secure Session Verified, and debugger monitoring\n• Professional activation error states with Open Support Ticket for HWID mismatch and suspended keys\n• Solid cool-blue action buttons and polished quick-action dashboard chips",
   "version": "2.1.2",
   "downloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.2/WinTweak.exe",
-  "updateDownloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.2/WinTweak.exe",
-  "releaseNotes": "`Corporate Tech-Noir UI redesign with refined dashboard, tweak cards, and activity log terminal`\n \n`High-security License Activation gate with HWID Bound Lock and encrypted handshake`\n \n`Security Status panel with Anti-Tamper active and Secure Session Verified`\n \n`Professional activation error states with Open Support Ticket`\n \n`Solid cool-blue action buttons and polished quick-action dashboard chips`",
-  "publishedAt": "2026-07-16"
+  "publishedAt": "2026-07-17"
 }
