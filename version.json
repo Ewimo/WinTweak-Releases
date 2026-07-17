@@ -1,7 +1,7 @@
 {
-    "updateDownloadUrl":  "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.3/WinTweak.exe",
-    "releaseNotes":  "• Global module search with Ctrl+K — instantly filter tweaks, games, and categories\n• Dashboard layout overhaul — max-width rail, aligned 4-column telemetry grid, uniform card heights\n• Smooth anti-aliased memory/CPU sparklines and consistent rounded progress bars\n• Optimization toggles, technical detail accordions, and refined quick-action chips\n• Category module grid with identical vertical rhythm and hover micro-interactions",
-    "version":  "2.1.3",
-    "downloadUrl":  "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.3/WinTweak.exe",
-    "publishedAt":  "2026-07-18"
+  "version": "2.1.3",
+  "downloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.3/WinTweak.exe",
+  "updateDownloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.3/WinTweak.exe",
+  "releaseNotes": "`Global module search with Ctrl+K — instantly filter tweaks, games, and categories`\n \n`Dashboard layout overhaul — max-width rail, aligned 4-column telemetry grid, uniform card heights`\n \n`Smooth anti-aliased memory/CPU sparklines and consistent rounded progress bars`\n \n`Optimization toggles, technical detail accordions, and refined quick-action chips`\n \n`Category module grid with identical vertical rhythm and hover micro-interactions`",
+  "publishedAt": "2026-07-17"
 }
