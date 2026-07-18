@@ -1,7 +1,7 @@
 {
-  "version": "2.1.4",
-  "downloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.4/WinTweak.exe",
-  "updateDownloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.4/WinTweak.exe",
-  "releaseNotes": "`Fixed license activation crash — Verify & Activate no longer fails with a cross-thread UI error`\n \n`Safer handshake flow — activation errors show in-app instead of a raw WinTweak Error dialog`",
-  "publishedAt": "2026-07-18"
+    "updateDownloadUrl":  "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.4/WinTweak.exe",
+    "releaseNotes":  "• Fixed license activation crash — Verify \u0026 Activate no longer fails with a cross-thread UI error\n• Safer handshake flow — activation errors show in-app instead of a raw WinTweak Error dialog",
+    "version":  "2.1.4",
+    "downloadUrl":  "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.4/WinTweak.exe",
+    "publishedAt":  "2026-07-18"
 }
