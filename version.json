@@ -1,7 +1,7 @@
 {
-  "version": "2.1.5",
-  "downloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.5/WinTweak.exe",
-  "updateDownloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.5/WinTweak.exe",
-  "releaseNotes": "`Cleaner dashboard — removed Security Status panel and category progress cards for a tighter layout`\n \n`Sharper transparent .exe icon — logo-only app icon without the dark square background`\n \n`Tighter tweak/category descriptions — less empty spacing, clearer Network and category copy`\n \n`High-quality sidebar and title-bar logo rendering`",
-  "publishedAt": "2026-07-23"
+    "updateDownloadUrl":  "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.5/WinTweak.exe",
+    "releaseNotes":  "• Cleaner dashboard — removed Security Status panel and category progress cards for a tighter layout\n• Sharper transparent .exe icon — logo-only app icon without the dark square background\n• Tighter tweak/category descriptions — less empty spacing, clearer Network and category copy\n• High-quality sidebar and title-bar logo rendering",
+    "version":  "2.1.5",
+    "downloadUrl":  "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.5/WinTweak.exe",
+    "publishedAt":  "2026-07-23"
 }
