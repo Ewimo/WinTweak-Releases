@@ -1,7 +1,7 @@
 {
-    "updateDownloadUrl":  "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.5/WinTweak.exe",
-    "releaseNotes":  "• Cleaner dashboard — removed Security Status panel and category progress cards for a tighter layout\n• Sharper transparent .exe icon — logo-only app icon without the dark square background\n• Tighter tweak/category descriptions — less empty spacing, clearer Network and category copy\n• High-quality sidebar and title-bar logo rendering",
-    "version":  "2.1.5",
-    "downloadUrl":  "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.1.5/WinTweak.exe",
-    "publishedAt":  "2026-07-23"
+  "version": "2.2.0",
+  "downloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.2.0/WinTweak.exe",
+  "updateDownloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.2.0/WinTweak.exe",
+  "releaseNotes": "`First-run Setup Wizard — welcome flow, system restore point, and optional health scan`\n \n`Micro-Tweaks & Utility Hub — debloat, telemetry controls, service tweaks, and PowerShell utility`\n \n`Memory Engine — live RAM telemetry, working-set trim, and optional auto-trim`\n \n`FPS & Input Latency Engine in Advanced Gaming — timer resolution, MMCSS, MSI mode, and GPU affinity`\n \n`Safety badges on tweaks (Safe / Requires Reboot / Advanced) and cleaner category descriptions`",
+  "publishedAt": "2026-07-26"
 }
