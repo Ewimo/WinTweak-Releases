@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "downloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.2.0/WinTweak.exe",
-  "updateDownloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.2.0/WinTweak.exe",
-  "releaseNotes": "`First-run Setup Wizard — welcome flow, system restore point, and optional health scan`\n \n`Micro-Tweaks & Utility Hub — debloat, telemetry controls, service tweaks, and PowerShell utility`\n \n`Memory Engine — live RAM telemetry, working-set trim, and optional auto-trim`\n \n`FPS & Input Latency Engine in Advanced Gaming — timer resolution, MMCSS, MSI mode, and GPU affinity`\n \n`Safety badges on tweaks (Safe / Requires Reboot / Advanced) and cleaner category descriptions`",
-  "publishedAt": "2026-07-26"
+  "version": "2.2.1",
+  "downloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.2.1/WinTweak.exe",
+  "updateDownloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.2.1/WinTweak.exe",
+  "releaseNotes": "`Themed in-app dialogs for apply, advanced tweaks, and update prompts`\n \n`Apply menu split — Apply Recommended Settings or Apply All Settings`\n \n`Restore point prompt before applying advanced tweaks`\n \n`Stability and UX polish across the tweak workflow`",
+  "publishedAt": "2026-08-03"
 }
