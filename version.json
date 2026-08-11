@@ -1,7 +1,1 @@
-{
-  "version": "2.2.1",
-  "downloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.2.1/WinTweak.exe",
-  "updateDownloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v2.2.1/WinTweak.exe",
-  "releaseNotes": "`Themed in-app dialogs for apply, advanced tweaks, and update prompts`\n \n`Apply menu split — Apply Recommended Settings or Apply All Settings`\n \n`Restore point prompt before applying advanced tweaks`\n \n`Stability and UX polish across the tweak workflow`",
-  "publishedAt": "2026-08-03"
-}
+{"sha256":"46e24fbe6a613a165e2fe0423c47309e992f41a1ddc7becf45b358efbb0d7b37","version":"3.1.0","releaseNotes":"u{2022} WinTweak is now 100% FREE - all premium features unlocked for everyone\nu{2022} Updates verified against a SHA-256 checksum before installing\nu{2022} Update downloads restricted to official WinTweak hosts\nu{2022} Fixed PowerShell command-injection risk in the service helper\nu{2022} RAM trimmer no longer trims critical system processes\nu{2022} Fixed PowerShell pipe deadlock in long tweaks\nu{2022} Remove Cortana no longer freezes the app window\nu{2022} Added single-instance guard\nu{2022} Fixed Deep Debloat Duolingo match pattern","downloadUrl":"https://github.com/Ewimo/WinTweak-Releases/releases/download/v3.1.0/WinTweak.exe","publishedAt":"2026-08-12","updateDownloadUrl":"https://github.com/Ewimo/WinTweak-Releases/releases/download/v3.1.0/WinTweak.exe"}
