@@ -1,1 +1,8 @@
-{"sha256":"D7D5E01A4FC6BB74892A5EED281D3EC3BDFD42AEA64B42B7F1C66EB9D2E4901A","version":"3.1.2","releaseNotes":"Join our Discord - new button in the app sidebar links to the official WinTweak community server","downloadUrl":"https://github.com/Ewimo/WinTweak-Releases/releases/download/v3.1.2/WinTweak.exe","publishedAt":"2026-08-16","updateDownloadUrl":"https://github.com/Ewimo/WinTweak-Releases/releases/download/v3.1.2/WinTweak.exe"}
+{
+  "version": "3.2.0",
+  "downloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v3.2.0/WinTweak.exe",
+  "updateDownloadUrl": "https://github.com/Ewimo/WinTweak-Releases/releases/download/v3.2.0/WinTweak.exe",
+  "releaseNotes": "`First launch asks you to accept the terms, privacy notice, and system-change warning`\n \n`Auto Tweak lists the games installed on your PC, creates a restore point, then optimizes that game and safe PC settings`\n \n`Pro features stay locked until your license is activated`\n \n`Quick tweaks now live in PC Booster`\n \n`The sidebar scrolls so every section, including Deep Debloat, is reachable`\n \n`Section titles sit directly above their descriptions`\n \n`The app icon is the WinTweak W`\n \n`Closing the window fully exits the app`\n \n`Discord linking works through the official site`",
+  "publishedAt": "2026-10-10",
+  "sha256": "35ae63bd09cd2420d6af83e6970bf3df9ab65a70d8b7b883365128c17f90e9a3"
+}
